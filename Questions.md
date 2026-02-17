@@ -30,6 +30,9 @@ Size: 1 bytes
 
 # Q9 :  Que constatez-vous en comparant les métriques de la solution  initiales vs la votre vs celle-ci ?
 Réponse:
+Cette version est tout simplement plus optimisée, le temps de réponse est < 1s.
+Ma propostion d'optimisation a eu l'effet inverse je dirais. Le temps de réponse était grand.
 
 # Q10 : Quelle dernière amélioration pourriez-vous proposer?
-Réponse:
+Réponse: 
+Peut être un DTO pour utiliser seulement les ressources nécessaires.
